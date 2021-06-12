@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+}
+
+#borito {
+    height: 400px;
+    background-image: url("boritokep.png");
+    background-position: center;
+    background-size: cover;
+}
